@@ -1,0 +1,1081 @@
+[
+ {
+  "id": "ruta",
+  "num": "01",
+  "navTitle": "Ruta inicial",
+  "title": "Ruta inicial",
+  "subtitle": "Qué hacer primero",
+  "fullOriginalTitle": "Ruta inicial: qué hacer primero",
+  "searchTags": "primeras 72 horas organización documentos prioridad",
+  "intro": "Si acabas de perder a alguien cercano, es comprensible que tengas muchas preguntas. Esta ruta te ayuda a identificar qué atender primero, qué documentos guardar y qué puede esperar. No tienes que hacerlo todo de una vez. Algunos trámites tienen plazos específicos: conviene confirmarlos con cada institución.",
+  "checklistTitle": "Mi lista de acciones iniciales",
+  "checks": [
+   "Tengo localizada el acta o certificado de defunción.",
+   "Resguardé documentos, tarjetas y contratos.",
+   "Abrí una carpeta física y una carpeta digital.",
+   "Definí una bitácora para folios y próximos pasos."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Designa una libreta o archivo con: fecha, institución, persona que atendió, teléfono/correo, folio, requisitos y próximo paso."
+   },
+   {
+    "bold": "",
+    "text": "Escanea documentos en PDF legible; evita fotografías oscuras, borrosas o cortadas."
+   },
+   {
+    "bold": "",
+    "text": "Si un trámite pide original y copia, conserva el original y pregunta si retendrán documentos."
+   }
+  ],
+  "care": [
+   "No entregues contraseñas, NIP o tokens a terceros.",
+   "No pagues gestores no verificados.",
+   "No firmes convenios, renuncias o finiquitos sin entender sus efectos."
+  ],
+  "docs": [],
+  "steps": [],
+  "questions": [],
+  "meta": [],
+  "table": null,
+  "hasBitacora": false,
+  "timeline": [
+   {
+    "label": "Primeras 72 horas",
+    "desc": "Acta/certificado, resguardo de documentos, apoyo familiar y bitácora.",
+    "accent": "#C96A3B",
+    "wash": null,
+    "spark": false
+   },
+   {
+    "label": "Primera semana",
+    "desc": "INE, CURP, búsqueda de pólizas, cuentas, créditos, empleador y seguridad social.",
+    "accent": "#C79D45",
+    "wash": null,
+    "spark": false
+   },
+   {
+    "label": "Primeros 30 días",
+    "desc": "SIAB-VIDA, BCD, avisos a bancos, créditos y apoyos funerarios.",
+    "accent": "#6A8592",
+    "wash": "#6A8592",
+    "spark": true
+   },
+   {
+    "label": "30 a 90 días",
+    "desc": "AFORE, pensión, sucesión si aplica, redes sociales y cancelación de servicios.",
+    "accent": "#83923E",
+    "wash": null,
+    "spark": false
+   },
+   {
+    "label": "Seguimiento continuo",
+    "desc": "Revisar pendientes, responder requerimientos y actualizar bitácora.",
+    "accent": "#C96A3B",
+    "wash": null,
+    "spark": false
+   }
+  ],
+  "firstActions": {
+   "title": "Primeras 24 a 72 horas",
+   "items": [
+    "Pide apoyo a una persona de confianza para tomar notas, hacer llamadas y cuidar documentos.",
+    "Ubica el acta o certificado de defunción y confirma cuándo estará disponible el acta certificada.",
+    "Resguarda identificaciones, tarjetas bancarias, celular, computadora, contratos y documentos laborales.",
+    "Evita usar tarjetas, cuentas o créditos de la persona fallecida, incluso si alguien conoce contraseñas o NIP.",
+    "Haz una carpeta física y una carpeta digital con los documentos principales."
+   ]
+  }
+ },
+ {
+  "id": "documentos",
+  "num": "02",
+  "navTitle": "Documentos base",
+  "title": "Documentos base",
+  "subtitle": "Qué conviene reunir",
+  "fullOriginalTitle": "Documentos base para casi todos los trámites",
+  "searchTags": "documentos acta identificación CURP parentesco comprobante domicilio estados cuenta pólizas factura",
+  "intro": "Reunir algunos documentos puede facilitar varias gestiones y evitarte viajes innecesarios. No necesitas tenerlos todos hoy. Empieza por los que ya tengas y consulta qué pide cada institución.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Crear carpeta física “Trámites GAID”.",
+   "Crear carpeta digital con PDFs legibles.",
+   "Guardar acta de defunción en original/copia certificada.",
+   "Separar documentos del fallecido y del solicitante.",
+   "Registrar folios y fechas de cada institución."
+  ],
+  "tips": [],
+  "care": [],
+  "docs": [],
+  "steps": [],
+  "questions": [],
+  "meta": [],
+  "table": {
+   "headers": [
+    "Documento",
+    "¿Para qué puede servir?",
+    "Tip GAID"
+   ],
+   "rows": [
+    [
+     "Acta de defunción",
+     "Seguros, bancos, créditos, INE, CURP, AFORE y apoyos funerarios.",
+     "Solicita varias copias certificadas si habrá varios trámites."
+    ],
+    [
+     "Identificación oficial del solicitante",
+     "Acreditar quién realiza el trámite.",
+     "INE, pasaporte o cédula, según acepte la institución."
+    ],
+    [
+     "Identificación del fallecido",
+     "Ayuda a localizar registros y datos.",
+     "Si no se tiene INE, pregunta por constancia o alternativas."
+    ],
+    [
+     "CURP y acta de nacimiento",
+     "CURP, AFORE, seguridad social, pensiones y actas.",
+     "Verifica que nombres y fechas coincidan."
+    ],
+    [
+     "Acta de matrimonio o nacimiento",
+     "Acreditar parentesco.",
+     "Útil para cónyuge, hijos, padres o hermanos."
+    ],
+    [
+     "Comprobante de domicilio",
+     "Bancos, AFORE, seguridad social y trámites administrativos.",
+     "Preferentemente no mayor a 3 meses cuando lo pidan."
+    ],
+    [
+     "Estados de cuenta / contratos / pólizas",
+     "Identificar banco, aseguradora, crédito, beneficiarios o número de póliza.",
+     "Revisa correo, celular, app bancaria y papeles en domicilio."
+    ],
+    [
+     "Factura de gastos funerarios",
+     "Apoyos IMSS/ISSSTE u otros beneficios.",
+     "Debe cumplir requisitos fiscales y mencionar conceptos del servicio."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "acta",
+  "num": "03",
+  "navTitle": "Acta de defunción",
+  "title": "Acta de defunción",
+  "subtitle": "Cómo obtenerla y revisarla",
+  "fullOriginalTitle": "Acta de defunción y copias certificadas",
+  "searchTags": "acta defunción registro civil plataforma nacional copia certificada",
+  "intro": "El acta de defunción es uno de los documentos que más te solicitarán. Aquí puedes consultar dónde obtenerla y qué revisar antes de usarla en otros trámites.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Tengo el acta de defunción o sé dónde solicitarla.",
+   "Verifiqué que los datos sean correctos.",
+   "Guardé una copia digital en PDF.",
+   "Separé copias para bancos, seguros, INE, CURP, AFORE y apoyos."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Solicita más de una copia certificada cuando haya varios trámites simultáneos."
+   },
+   {
+    "bold": "",
+    "text": "Antes de entregar un original, pregunta si pueden cotejarlo y quedarse con copia."
+   },
+   {
+    "bold": "",
+    "text": "Revisa acentos, nombres compuestos y fechas."
+   }
+  ],
+  "care": [
+   "El costo puede variar por entidad federativa.",
+   "No todas las actas estarán disponibles en línea de inmediato.",
+   "Si el acta tiene errores, atiende la corrección antes de avanzar en trámites sensibles."
+  ],
+  "docs": [
+   "Nombre completo, CURP, fecha de defunción y entidad donde se registró.",
+   "Cuenta Llave MX si se realiza en línea.",
+   "Medio de pago si se solicita copia digital o certificada.",
+   "Identificación del solicitante, cuando el Registro Civil lo requiera en atención presencial."
+  ],
+  "steps": [
+   "Confirma que la defunción ya fue registrada ante Registro Civil.",
+   "Reúne CURP y datos del fallecido.",
+   "Consulta si puedes obtener copia certificada digital en la Plataforma Nacional del Registro Civil o acude al Registro Civil correspondiente.",
+   "Realiza el pago oficial, si aplica.",
+   "Descarga o solicita copias certificadas y guárdalas en físico y digital.",
+   "Verifica que nombres, fechas y datos estén correctos; si hay errores, pregunta por el proceso de aclaración o corrección."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Tan pronto como se cuente con el registro de defunción y sea necesario iniciar trámites ante bancos, aseguradoras, instituciones públicas o privadas."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Generalmente familiares o personas interesadas que cuenten con los datos necesarios del registro. La disponibilidad puede variar por entidad."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "ine",
+  "num": "04",
+  "navTitle": "INE",
+  "title": "Notificación al INE",
+  "subtitle": "Actualización de registros",
+  "fullOriginalTitle": "Notificación al INE por fallecimiento",
+  "searchTags": "INE credencial padrón electoral lista nominal módulo atención ciudadana",
+  "intro": "Después de un fallecimiento, puede ser necesario informar al INE para actualizar los registros. Esta sección explica qué opciones puedes consultar y qué datos conviene tener a la mano.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Identifiqué el módulo INE más cercano.",
+   "Tengo acta de defunción.",
+   "Tengo credencial del fallecido o datos suficientes.",
+   "Llevo identificación del solicitante.",
+   "Registré folio, fecha o nombre de quien atendió."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Lleva copias adicionales para evitar regresar."
+   },
+   {
+    "bold": "",
+    "text": "Si no tienes la credencial del fallecido, pregunta en el módulo si procede con acta de defunción y datos de identificación."
+   },
+   {
+    "bold": "",
+    "text": "Guarda cualquier folio o acuse."
+   }
+  ],
+  "care": [
+   "No dejes la credencial o documentos originales sin recibir explicación o comprobante.",
+   "Si hay proceso electoral cercano, confirma horarios y requisitos vigentes.",
+   "Este trámite no sustituye baja de CURP ni trámites bancarios o sucesorios."
+  ],
+  "docs": [
+   "Acta de defunción.",
+   "Credencial para votar de la persona fallecida, si se cuenta con ella.",
+   "Identificación oficial del solicitante.",
+   "Documento que acredite parentesco o representación, si lo solicita el módulo."
+  ],
+  "steps": [
+   "Localiza el Módulo de Atención Ciudadana del INE más cercano.",
+   "Acude con acta de defunción y credencial de elector de la persona fallecida, si se tiene.",
+   "Explica que deseas notificar el fallecimiento para actualización del registro.",
+   "Entrega la documentación para revisión.",
+   "Solicita comprobante, folio o indicación de seguimiento si está disponible."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Después de contar con el acta de defunción y, de ser posible, la credencial para votar de la persona fallecida."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Un familiar o persona que pueda presentar la documentación solicitada en el módulo correspondiente."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "curp",
+  "num": "05",
+  "navTitle": "CURP",
+  "title": "Baja de CURP",
+  "subtitle": "Por defunción",
+  "fullOriginalTitle": "Baja o constancia de baja de CURP por defunción",
+  "searchTags": "CURP baja RENAPO registro civil módulo acta nacimiento parentesco",
+  "intro": "También puede ser necesario actualizar la CURP de la persona fallecida. Aquí encontrarás orientación para consultar la baja o solicitar una constancia, según corresponda.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Consulté el estatus de la CURP.",
+   "Tengo acta de defunción.",
+   "Tengo acta de nacimiento.",
+   "Tengo identificación del solicitante.",
+   "Tengo documento de parentesco o representación.",
+   "Descargué o solicité constancia de baja."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Revisa que el nombre coincida en acta de nacimiento, defunción, CURP, IMSS/ISSSTE y AFORE."
+   },
+   {
+    "bold": "",
+    "text": "Si hay diferencias de nombre, apellido o fecha, pregunta qué corrección debe atenderse primero."
+   },
+   {
+    "bold": "",
+    "text": "Guarda la constancia de baja junto con el acta de defunción."
+   }
+  ],
+  "care": [
+   "Si hay inconsistencias en datos, otros trámites como AFORE o pensión pueden detenerse.",
+   "Extranjeros, naturalizados o residentes permanentes pueden requerir atención distinta ante RENAPO o INM.",
+   "No confundas constancia de CURP activa con constancia de baja por defunción."
+  ],
+  "docs": [
+   "Acta de defunción.",
+   "Acta de nacimiento de la persona fallecida.",
+   "Identificación oficial vigente del solicitante.",
+   "Documento probatorio de parentesco, según aplique.",
+   "CURP de la persona fallecida, si se tiene."
+  ],
+  "steps": [
+   "Consulta la CURP de la persona fallecida en el portal oficial para verificar si aparece activa o dada de baja.",
+   "Si aparece baja, descarga la constancia disponible.",
+   "Si aparece activa o con datos incorrectos, reúne acta de defunción, acta de nacimiento y documento de parentesco.",
+   "Acude a Registro Civil, módulo CURP o RENAPO según corresponda.",
+   "Solicita la baja o corrección de CURP por defunción.",
+   "Guarda la constancia emitida para trámites posteriores."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Después de que el fallecimiento se registre en Registro Civil. Si al consultar la CURP aún aparece activa, puede requerirse acudir a Registro Civil o módulo CURP/RENAPO."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Familiares como padre, madre, hijo, cónyuge, concubino, hermano, abuelo, tutor o representante, acreditando identidad y parentesco según corresponda."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "seguros",
+  "num": "06",
+  "navTitle": "Seguros de vida",
+  "title": "Seguros de vida",
+  "subtitle": "Búsqueda de beneficiarios",
+  "fullOriginalTitle": "Búsqueda de beneficiarios de seguros de vida · SIAB-VIDA",
+  "searchTags": "seguro vida SIAB VIDA CONDUSEF RUT beneficiario póliza",
+  "intro": "Puede ser difícil saber si existía un seguro de vida o quiénes son sus beneficiarios. Te explicamos cómo iniciar la búsqueda y qué información puede ayudarte.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Busqué pólizas o indicios de seguros.",
+   "Llené formato SIAB-VIDA.",
+   "Tengo identificación oficial.",
+   "Tengo acta de defunción.",
+   "Adjunté documentos en PDF.",
+   "Conservé folio de seguimiento."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Busca pólizas, recibos, descuentos de nómina, estados de cuenta, correo electrónico o contratos antes de iniciar."
+   },
+   {
+    "bold": "",
+    "text": "Revisa si existían seguros por trabajo, sindicato, tarjeta, crédito hipotecario, préstamo o membresía."
+   },
+   {
+    "bold": "",
+    "text": "El trámite ayuda a buscar información; no garantiza que exista seguro ni que el solicitante sea beneficiario."
+   }
+  ],
+  "care": [
+   "El SIAB-VIDA no cambia beneficiarios; solo permite consultar información.",
+   "Si no hay beneficiario designado, podrían requerirse gestiones sucesorias.",
+   "No prometas cobro automático: la aseguradora validará póliza, beneficiarios, vigencia y requisitos."
+  ],
+  "docs": [
+   "Formato “Solicitud SIAB-VIDA” llenado y firmado.",
+   "Identificación oficial del solicitante.",
+   "Acta de defunción de la persona fallecida.",
+   "Documento de poder o representación, si aplica.",
+   "Para menores de edad: acta de nacimiento del menor o nombramiento de tutor, según corresponda."
+  ],
+  "steps": [
+   "Ingresa al Registro Único de Trámites (RUT) de CONDUSEF.",
+   "Selecciona la solicitud de búsqueda de beneficiarios de seguros de vida SIAB-VIDA.",
+   "Llena el formato correspondiente con datos del solicitante y de la persona fallecida.",
+   "Adjunta los documentos en PDF legible.",
+   "Envía la solicitud y conserva el folio.",
+   "Da seguimiento en el RUT o en el canal indicado por CONDUSEF.",
+   "Si hay respuesta positiva, sigue las instrucciones para contactar a la aseguradora correspondiente."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Cuando no se tiene certeza de si existía seguro de vida individual, colectivo o vinculado a productos financieros como tarjetas, créditos o servicios."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Cualquier persona interesada o posible beneficiaria. Si actúa un apoderado o representante, debe acreditar representación."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "bancos",
+  "num": "07",
+  "navTitle": "Bancos",
+  "title": "Cuentas bancarias",
+  "subtitle": "Búsqueda de beneficiarios",
+  "fullOriginalTitle": "Búsqueda de beneficiarios de cuentas bancarias · BCD",
+  "searchTags": "cuentas bancarias BCD CONDUSEF depósito beneficiario banco UNE",
+  "intro": "Si la persona fallecida tenía cuentas bancarias, existen mecanismos para consultar posibles beneficiarios. Aquí encontrarás los pasos generales y precauciones importantes.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Revisé estados de cuenta, tarjetas y contratos.",
+   "Identifiqué posibles bancos o inicié BCD.",
+   "Llené formato BCD.",
+   "Tengo acta de defunción e identificación.",
+   "Guardé folio.",
+   "Registré banco o UNE si hay respuesta positiva."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Revisa pagos domiciliados: luz, teléfono, seguros, colegiaturas, membresías o plataformas."
+   },
+   {
+    "bold": "",
+    "text": "Pregunta si la cuenta tenía beneficiarios designados y qué documentación pide el banco."
+   },
+   {
+    "bold": "",
+    "text": "Si no existe beneficiario designado, normalmente se requieren gestiones sucesorias."
+   }
+  ],
+  "care": [
+   "No retires recursos ni uses tarjetas sin autorización legal.",
+   "El trámite BCD no modifica beneficiarios ni sustituye juicio sucesorio.",
+   "Evita compartir datos bancarios completos por canales no verificados."
+  ],
+  "docs": [
+   "Formato “Solicitud BCD” llenado y firmado.",
+   "Identificación oficial del solicitante.",
+   "Acta de defunción de la persona fallecida.",
+   "Poder o documento de representación, si el trámite lo hace un apoderado.",
+   "Documentos de parentesco o interés jurídico si la institución lo requiere posteriormente."
+  ],
+  "steps": [
+   "Busca primero contratos, tarjetas, apps bancarias, estados de cuenta o correos para identificar bancos.",
+   "Si no se identifica institución o cuenta, ingresa al RUT de CONDUSEF.",
+   "Selecciona búsqueda de beneficiarios de cuentas de depósito BCD.",
+   "Llena y firma el formato.",
+   "Adjunta acta de defunción e identificación oficial en PDF.",
+   "Envía la solicitud y conserva folio.",
+   "Si hay respuesta positiva, sigue la canalización a la institución bancaria o UNE correspondiente."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Cuando no se localizan contratos, tarjetas, estados de cuenta o información clara de cuentas de ahorro, cheques o inversión."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Persona que considere tener derecho como beneficiaria o su representante, acreditando documentación requerida."
+   }
+  ],
+  "table": {
+   "headers": [
+    "Situación",
+    "Ruta general"
+   ],
+   "rows": [
+    [
+     "Hay beneficiario designado",
+     "El banco valida identidad, documentación y condiciones para entrega de recursos."
+    ],
+    [
+     "No hay beneficiario designado",
+     "Puede requerirse juicio sucesorio o documento legal que acredite quién puede reclamar."
+    ],
+    [
+     "No se sabe si hay cuenta",
+     "Se busca documentación o se inicia BCD ante CONDUSEF."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "creditos",
+  "num": "08",
+  "navTitle": "Créditos",
+  "title": "Créditos y tarjetas",
+  "subtitle": "Qué conviene revisar",
+  "fullOriginalTitle": "Tarjetas de crédito, créditos personales o hipotecarios",
+  "searchTags": "cancelación tarjeta crédito préstamo hipoteca saldo seguro fallecimiento",
+  "intro": "Ante tarjetas, préstamos o hipotecas, es importante conocer la situación antes de tomar decisiones. Esta sección te ayuda a identificar qué preguntar y qué documentos revisar.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Identifiqué banco o institución.",
+   "Tengo acta de defunción.",
+   "Solicité requisitos específicos.",
+   "Pregunté por seguro asociado.",
+   "Entregué documentos y tengo folio.",
+   "Confirmé cancelación o resolución."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "No uses tarjetas adicionales después del fallecimiento."
+   },
+   {
+    "bold": "",
+    "text": "Pregunta expresamente si el producto tenía seguro de vida, seguro de saldo deudor o cobertura por fallecimiento."
+   },
+   {
+    "bold": "",
+    "text": "Pide todo por escrito: saldo, fecha de corte, cargos posteriores y resolución."
+   }
+  ],
+  "care": [
+   "No todos los créditos se cancelan automáticamente por fallecimiento.",
+   "Puede haber exclusiones: atrasos previos, uso posterior, tarjetas adicionales, créditos mancomunados o requisitos de póliza.",
+   "No firmes reconocimiento de deuda o convenio sin entenderlo; busca asesoría si hay presión de cobranza."
+  ],
+  "docs": [
+   "Acta de defunción.",
+   "Identificación oficial del solicitante.",
+   "Identificación de la persona fallecida, si se tiene.",
+   "Estado de cuenta, contrato, número de crédito o tarjeta.",
+   "Documentos del Ministerio Público si el fallecimiento fue por causa legal/violenta y la institución lo requiere.",
+   "Documento legal de representación, si aplica."
+  ],
+  "steps": [
+   "Identifica la institución, tipo de producto y número de cuenta/crédito/tarjeta.",
+   "Llama al banco o acude a sucursal para preguntar el proceso por fallecimiento del titular.",
+   "Solicita el listado de documentos y formato de cancelación o reclamación de seguro asociado.",
+   "Entrega documentación por el canal indicado.",
+   "Pide acuse, folio y fecha estimada de respuesta.",
+   "Da seguimiento hasta obtener confirmación de cancelación, aplicación de seguro o resolución.",
+   "Revisa que no continúen cargos, intereses o uso de tarjetas adicionales."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Lo antes posible después de contar con acta de defunción, especialmente si hay tarjetas, créditos activos, hipoteca, préstamos o cargos domiciliados."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Familiar, beneficiario, albacea, representante legal o persona interesada que pueda acreditar el fallecimiento y seguir el proceso de la institución."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "apoyos",
+  "num": "09",
+  "navTitle": "Apoyos",
+  "title": "Apoyos y beneficios",
+  "subtitle": "Gastos funerarios y otras opciones",
+  "fullOriginalTitle": "Gastos funerarios, pago de marcha y otros beneficios",
+  "searchTags": "IMSS ISSSTE Bienestar gastos funeral pago marcha empresa sindicato",
+  "intro": "Algunas instituciones ofrecen apoyos por gastos funerarios u otros beneficios. Te mostramos cuáles conviene consultar y cómo verificar si corresponden a tu caso.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Identifiqué institución o programa.",
+   "Confirmé si el fallecido tenía derechos vigentes.",
+   "Tengo factura o comprobante aceptable.",
+   "Tengo acta de defunción.",
+   "Tengo identificación y CURP.",
+   "Registré folio y fecha de seguimiento."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Si el servicio funerario fue cubierto por una asistencia y la familia no pagó factura, confirma con la institución si aceptan algún comprobante parcial."
+   },
+   {
+    "bold": "",
+    "text": "Pregunta primero por requisitos antes de solicitar factura."
+   },
+   {
+    "bold": "",
+    "text": "Distingue entre “ayuda de gastos funerarios” y “pago de marcha”; no son lo mismo."
+   }
+  ],
+  "care": [
+   "No todos los apoyos aplican para todos los casos.",
+   "Los requisitos pueden cambiar por institución y régimen.",
+   "No prometas monto sin validar."
+  ],
+  "docs": [
+   "Acta de defunción o certificado/acta aceptada por la institución.",
+   "Factura o documento fiscal de gastos funerarios, cuando aplique.",
+   "Identificación oficial del solicitante.",
+   "CURP del fallecido y del solicitante.",
+   "Documento que acredite pensión, trabajo, afiliación o derechohabiencia.",
+   "Comprobante de parentesco o designación, si lo requiere la institución.",
+   "Cuenta bancaria o CLABE del solicitante, cuando aplique."
+  ],
+  "steps": [
+   "Identifica si el fallecido era asegurado IMSS, pensionado IMSS, trabajador o pensionado ISSSTE, beneficiario de Bienestar u otro programa.",
+   "Revisa si la familia pagó el servicio funerario y si existe factura a nombre de quien solicitará el apoyo.",
+   "Consulta el trámite correspondiente en la institución.",
+   "Reúne documentos y verifica vigencia de derechos o registro como auxiliar, según aplique.",
+   "Acude o inicia trámite por el canal indicado.",
+   "Conserva acuse, folio y fecha de respuesta.",
+   "Si no aplica, pregunta si existe otro beneficio laboral, sindical, asegurador o programa estatal."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Cuando la familia o un tercero pagó gastos funerarios y cuenta con factura/documentación, o cuando la persona fallecida era derechohabiente, pensionada, jubilada o beneficiaria de un programa."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Puede variar: familiar, persona que pagó el funeral, representante o auxiliar registrado, según la institución."
+   }
+  ],
+  "table": {
+   "headers": [
+    "Institución / programa",
+    "Idea general",
+    "Punto a validar"
+   ],
+   "rows": [
+    [
+     "IMSS",
+     "Ayuda económica por gastos de funeral de asegurado o pensionado.",
+     "Semanas cotizadas, vigencia de derechos, factura/acta."
+    ],
+    [
+     "ISSSTE",
+     "Pago de gastos de funeral para pensionados y jubilados, según reglas vigentes.",
+     "Documentos específicos y área correspondiente."
+    ],
+    [
+     "Bienestar",
+     "Pago de marcha por única vez al auxiliar o representante registrado.",
+     "Que exista auxiliar registrado y reglas del programa."
+    ],
+    [
+     "Empresa / sindicato",
+     "Puede existir apoyo laboral, seguro colectivo o prestación.",
+     "RH, contrato colectivo o póliza."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "afore",
+  "num": "10",
+  "navTitle": "AFORE",
+  "title": "AFORE y pensiones",
+  "subtitle": "Recursos y beneficiarios",
+  "fullOriginalTitle": "AFORE, pensiones y recursos de la cuenta individual",
+  "searchTags": "AFORE pensión IMSS ISSSTE CONSAR NSS beneficiario",
+  "intro": "Si la persona fallecida tenía una cuenta AFORE o derechos de pensión, es posible que existan recursos o beneficios para sus familiares o beneficiarios. Aquí encontrarás por dónde empezar.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Localicé la AFORE.",
+   "Verifiqué CURP/NSS.",
+   "Identifiqué posible derecho a pensión.",
+   "Tengo acta de defunción y nacimiento.",
+   "Tengo documentos del beneficiario.",
+   "Tengo resolución o sé dónde solicitarla.",
+   "Registré folio ante AFORE."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "No inicies por la AFORE sin saber si primero necesitas resolución de pensión o negativa."
+   },
+   {
+    "bold": "",
+    "text": "Si hay errores de nombre, CURP o NSS, atiende la corrección antes de presentar expediente."
+   },
+   {
+    "bold": "",
+    "text": "Pregunta si los recursos son por beneficiarios legales, sustitutos, aportaciones voluntarias o remanentes."
+   }
+  ],
+  "care": [
+   "Beneficiario legal y beneficiario sustituto no siempre son lo mismo.",
+   "Si existe conflicto entre familiares, puede requerirse autoridad laboral, tribunal o sucesión.",
+   "Los recursos no siempre se entregan de inmediato; depende de expediente y régimen."
+  ],
+  "docs": [
+   "CURP y/o Número de Seguridad Social del trabajador fallecido.",
+   "Correo electrónico para localizar AFORE en AforeWeb.",
+   "Acta de defunción.",
+   "Acta de nacimiento del trabajador y del beneficiario.",
+   "Identificación oficial del beneficiario.",
+   "CURP del beneficiario.",
+   "Comprobante de domicilio reciente.",
+   "Estado de cuenta AFORE, si se tiene.",
+   "Resolución de pensión, negativa de pensión o documento requerido por IMSS/ISSSTE/AFORE.",
+   "CLABE bancaria y constancia fiscal, si la AFORE lo solicita."
+  ],
+  "steps": [
+   "Localiza la AFORE en AforeWeb con CURP o NSS y correo electrónico.",
+   "Si no aparece información, verifica que CURP o NSS estén correctos ante RENAPO, IMSS o ISSSTE.",
+   "Identifica si aplica pensión por viudez, orfandad, ascendencia u otro derecho.",
+   "Acude a IMSS/ISSSTE para orientación o resolución correspondiente.",
+   "Con la resolución o requisitos, acude a la AFORE que administra la cuenta.",
+   "Entrega documentación y solicita trámite de disposición de recursos o pensión, según corresponda.",
+   "Da seguimiento con folio hasta resolución."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Después de identificar si la persona cotizó en IMSS, ISSSTE o tuvo cuenta AFORE. Conviene iniciar localizando la AFORE con CURP o NSS."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Beneficiarios legales o sustitutos, según corresponda, o representante legal. Puede requerirse resolución de pensión, negativa de pensión o documento de autoridad competente."
+   }
+  ],
+  "table": null,
+  "hasBitacora": false
+ },
+ {
+  "id": "digital",
+  "num": "11",
+  "navTitle": "Huella digital",
+  "title": "Huella digital",
+  "subtitle": "Cuentas y redes sociales",
+  "fullOriginalTitle": "Redes sociales, correo y cuentas digitales",
+  "searchTags": "redes sociales correo huella digital Facebook Instagram X Google LinkedIn cuenta conmemorativa",
+  "intro": "Los perfiles, correos y cuentas digitales también pueden necesitar atención. Puedes revisarlos gradualmente, respetando la privacidad y las indicaciones de cada plataforma.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Identifiqué plataformas activas.",
+   "Tengo URLs o correos asociados.",
+   "Decidí cerrar, memorializar o reportar.",
+   "Tengo acta de defunción.",
+   "Tengo identificación y documento de relación/representación.",
+   "Usé el centro de ayuda oficial.",
+   "Guardé comprobantes de solicitud."
+  ],
+  "tips": [
+   {
+    "bold": "",
+    "text": "Google no entrega contraseñas; revisa el Administrador de cuentas inactivas si el usuario lo configuró."
+   },
+   {
+    "bold": "",
+    "text": "En Facebook e Instagram puede existir opción de cuenta conmemorativa o eliminación, según reglas y configuración."
+   },
+   {
+    "bold": "",
+    "text": "X permite solicitar eliminación/desactivación, pero no da acceso a la cuenta."
+   },
+   {
+    "bold": "",
+    "text": "LinkedIn puede memorializar o cerrar cuenta; para cierre suele pedir autorización legal."
+   }
+  ],
+  "care": [
+   "No intentes entrar a cuentas sin autorización; puede generar problemas legales o de privacidad.",
+   "Desconfía de personas que prometen recuperar contraseñas.",
+   "Eliminar una cuenta puede ser irreversible; confirma con la familia antes de hacerlo."
+  ],
+  "docs": [
+   "Acta o certificado de defunción.",
+   "Identificación oficial del solicitante.",
+   "Documento que acredite parentesco o representación legal, cuando la plataforma lo solicite.",
+   "URL del perfil o correo asociado a la cuenta.",
+   "Datos de la persona fallecida: nombre completo, fecha de fallecimiento y correo, si se conoce.",
+   "Obituario, esquela o documento adicional, cuando aplique."
+  ],
+  "steps": [
+   "Haz una lista de redes y cuentas digitales: Facebook, Instagram, X, Google, LinkedIn, correo, apps, nubes, suscripciones.",
+   "Decide qué se busca: cierre, eliminación, cuenta conmemorativa o recuperación limitada de información.",
+   "Entra al centro de ayuda oficial de cada plataforma; no lo hagas por enlaces de terceros.",
+   "Llena el formulario y adjunta documentos solicitados.",
+   "Guarda correos de confirmación y folios.",
+   "Revisa suscripciones, pagos automáticos y cuentas vinculadas al celular o correo.",
+   "Si hay información sensible, busca asesoría legal antes de intentar acceder o compartir datos."
+  ],
+  "questions": [],
+  "meta": [
+   {
+    "title": "¿Cuándo conviene revisarlo?",
+    "text": "Cuando la familia identifica redes, correo, cuentas digitales, suscripciones o perfiles públicos de la persona fallecida."
+   },
+   {
+    "title": "¿Quién puede iniciarlo?",
+    "text": "Familiares directos, representantes legales o personas autorizadas, según la plataforma."
+   }
+  ],
+  "table": {
+   "headers": [
+    "Plataforma",
+    "Opciones frecuentes",
+    "Punto de cuidado"
+   ],
+   "rows": [
+    [
+     "Facebook",
+     "Cuenta conmemorativa o eliminación.",
+     "Puede pedir certificado de defunción o documento que acredite relación."
+    ],
+    [
+     "Instagram",
+     "Reportar fallecimiento, memorializar o solicitar eliminación.",
+     "No proporciona acceso a la cuenta por privacidad."
+    ],
+    [
+     "X",
+     "Solicitud de eliminación/desactivación de cuenta.",
+     "No da acceso a otra persona, aunque sea familiar."
+    ],
+    [
+     "Google",
+     "Cerrar cuenta, solicitar fondos o datos en circunstancias específicas.",
+     "No proporciona contraseñas; revisa Administrador de cuentas inactivas."
+    ],
+    [
+     "LinkedIn",
+     "Memorializar o cerrar cuenta.",
+     "El cierre puede requerir documentos legales de representación."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "control",
+  "num": "12",
+  "navTitle": "Seguimiento",
+  "title": "Seguimiento",
+  "subtitle": "Lista y bitácora",
+  "fullOriginalTitle": "Checklist maestro y bitácora de trámites",
+  "searchTags": "checklist bitácora folio seguimiento pendientes",
+  "intro": "Cuando son varios trámites, llevar un registro puede quitarte parte de la carga de recordarlo todo. Usa esta lista y bitácora para guardar avances, folios y próximos pasos.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [
+   "Acta de defunción.",
+   "Identificación del fallecido.",
+   "CURP del fallecido.",
+   "Acta de nacimiento del fallecido.",
+   "Identificación del solicitante.",
+   "CURP del solicitante.",
+   "Acta de matrimonio / nacimiento para parentesco.",
+   "Comprobante de domicilio.",
+   "Factura de gastos funerarios.",
+   "Pólizas de seguro.",
+   "Estados de cuenta / contratos bancarios.",
+   "Contratos de crédito / tarjeta / hipoteca.",
+   "NSS / datos IMSS o ISSSTE.",
+   "Estado de cuenta AFORE.",
+   "Datos de redes/correos/perfiles."
+  ],
+  "tips": [],
+  "care": [],
+  "docs": [],
+  "steps": [],
+  "questions": [
+   "¿Este trámite tiene costo? ¿Dónde se paga oficialmente?",
+   "¿Qué documentos necesitan en original y cuáles en copia?",
+   "¿Se quedan con algún documento original?",
+   "¿Cuál es el folio o acuse de recepción?",
+   "¿Cuál es el tiempo estimado de respuesta y por qué medio avisan?",
+   "¿Qué pasa si falta un documento o hay error de datos?",
+   "¿Existe un correo, teléfono o portal para seguimiento?",
+   "¿La respuesta positiva implica otro trámite con otra área o institución?"
+  ],
+  "meta": [],
+  "table": null,
+  "hasBitacora": true
+ },
+ {
+  "id": "glosario",
+  "num": "13",
+  "navTitle": "Glosario",
+  "title": "Glosario",
+  "subtitle": "Palabras útiles",
+  "fullOriginalTitle": "Glosario sencillo",
+  "searchTags": "beneficiario sucesión albacea UNE SIAB BCD AFORE CURP conmemorativa",
+  "intro": "En los trámites pueden aparecer palabras poco familiares. Este glosario te ayuda a entenderlas de forma sencilla mientras consultas la guía.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [],
+  "tips": [],
+  "care": [],
+  "docs": [],
+  "steps": [],
+  "questions": [],
+  "meta": [],
+  "table": {
+   "headers": [
+    "Término",
+    "Explicación sencilla"
+   ],
+   "rows": [
+    [
+     "Beneficiario",
+     "Persona designada para recibir un beneficio, recurso, seguro o derecho."
+    ],
+    [
+     "Sucesión",
+     "Proceso legal para determinar quién puede recibir bienes o derechos cuando no hay beneficiario directo o testamento suficiente."
+    ],
+    [
+     "Albacea",
+     "Persona encargada de administrar o ejecutar una sucesión."
+    ],
+    [
+     "UNE",
+     "Unidad Especializada de Atención a Usuarios de una institución financiera."
+    ],
+    [
+     "SIAB-VIDA",
+     "Sistema de CONDUSEF para buscar beneficiarios de seguros de vida."
+    ],
+    [
+     "BCD",
+     "Búsqueda de Beneficiarios de Cuentas de Depósito ante CONDUSEF."
+    ],
+    [
+     "AFORE",
+     "Administradora de fondos para el retiro."
+    ],
+    [
+     "CURP baja",
+     "Constancia que indica que la CURP se asoció a un fallecimiento."
+    ],
+    [
+     "Cuenta conmemorativa",
+     "Perfil digital que se conserva como recuerdo y bloquea ciertos accesos o funciones."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "resumen",
+  "num": "14",
+  "navTitle": "Resumen",
+  "title": "Resumen de trámites",
+  "subtitle": "Una vista general",
+  "fullOriginalTitle": "Resumen comparativo de trámites",
+  "searchTags": "resumen institución documento clave resultado",
+  "intro": "Si necesitas ver las opciones de un vistazo, este resumen reúne los trámites principales para que identifiques qué institución consultar.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [],
+  "tips": [],
+  "care": [],
+  "docs": [],
+  "steps": [],
+  "questions": [],
+  "meta": [],
+  "table": {
+   "headers": [
+    "Trámite",
+    "Institución base",
+    "Documento clave",
+    "Resultado posible"
+   ],
+   "rows": [
+    [
+     "Acta de defunción",
+     "Registro Civil / Plataforma Nacional",
+     "CURP y datos del fallecido",
+     "Copia certificada física o digital."
+    ],
+    [
+     "INE por fallecimiento",
+     "INE",
+     "Acta de defunción y credencial del fallecido",
+     "Actualización del Padrón Electoral/Lista Nominal."
+    ],
+    [
+     "Baja de CURP",
+     "RENAPO / Registro Civil / módulos CURP",
+     "Acta de defunción y nacimiento",
+     "Constancia de baja de CURP."
+    ],
+    [
+     "Seguros de vida",
+     "CONDUSEF / aseguradoras",
+     "Solicitud SIAB-VIDA",
+     "Búsqueda/canalización si existe póliza."
+    ],
+    [
+     "Cuentas bancarias",
+     "CONDUSEF / bancos",
+     "Solicitud BCD",
+     "Búsqueda/canalización si existe cuenta con beneficiario."
+    ],
+    [
+     "Créditos y tarjetas",
+     "Banco o institución financiera",
+     "Acta de defunción y contrato/estado",
+     "Cancelación, revisión de seguro o resolución."
+    ],
+    [
+     "Gastos funerarios",
+     "IMSS / ISSSTE / Bienestar / empleador",
+     "Factura, acta y acreditación",
+     "Apoyo económico o pago de marcha, si aplica."
+    ],
+    [
+     "AFORE",
+     "CONSAR / AFORE / IMSS / ISSSTE",
+     "CURP/NSS, acta y resolución",
+     "Pensión o disposición de recursos, según caso."
+    ],
+    [
+     "Huella digital",
+     "Plataformas digitales",
+     "Acta, identificación, URL/perfil",
+     "Memorialización, cierre o eliminación, según reglas."
+    ]
+   ]
+  },
+  "hasBitacora": false
+ },
+ {
+  "id": "fuentes",
+  "num": "15",
+  "navTitle": "Fuentes",
+  "title": "Fuentes consultadas",
+  "subtitle": "Información para verificar",
+  "fullOriginalTitle": "Fuentes consultadas y cierre GAID",
+  "searchTags": "fuentes validación julio 2026 CONDUSEF IMSS INE RENAPO CONSAR ISSSTE Bienestar",
+  "intro": "Los requisitos pueden cambiar. Aquí encontrarás las fuentes institucionales consideradas para esta guía; antes de iniciar un trámite, confirma la información vigente con la institución correspondiente.",
+  "checklistTitle": "Mi lista de acciones",
+  "checks": [],
+  "tips": [],
+  "care": [
+   "La guía busca dar claridad en un momento difícil.",
+   "La familia no tiene que resolver todo de inmediato ni hacerlo sola.",
+   "Un trámite bien documentado, con folios y requisitos claros, reduce desgaste y ayuda a proteger derechos.",
+   "GAID acompaña con información útil, responsable y humana: Contigo en Cada Paso."
+  ],
+  "docs": [
+   "CONDUSEF: SIAB-VIDA y Registro Único de Trámites (RUT).",
+   "CONDUSEF: Búsqueda de Beneficiarios de Cuentas de Depósito (BCD).",
+   "IMSS: Solicitud de Ayuda para Gastos de Funeral, homoclave IMSS-01-010.",
+   "INE / Central Electoral: aviso de fallecimiento en módulos INE e INETEL 800 433 2000.",
+   "RENAPO / SEGOB: constancia de baja de CURP por defunción y trámite de baja de CURP.",
+   "Plataforma Nacional del Registro Civil: acta de defunción en línea.",
+   "CONSAR: Localización de Cuenta Individual en AforeWeb y orientación sobre beneficiarios.",
+   "ISSSTE: pago de gastos de funeral a pensionados y jubilados y pensiones por causa de muerte.",
+   "Secretaría de Bienestar: Pago de Marcha.",
+   "Centros de ayuda oficiales de Google, Facebook, Instagram, X y LinkedIn para cuentas de usuarios fallecidos."
+  ],
+  "steps": [],
+  "questions": [],
+  "meta": [],
+  "table": null,
+  "hasBitacora": false
+ }
+]
