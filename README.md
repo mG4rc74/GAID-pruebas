@@ -1,28 +1,24 @@
-# GAID · Sitio de pruebas independiente
+# Diseño Web Interactivo
 
-Versión HTML de GAID preparada para GitHub Pages. **No reemplaza ni altera el proyecto React original.**
+necesito creas un sitio web, una gui interactiva, esta es mi base, lo que llevo hasta hoy, necesito trabajar en el diseño que sea fluido , actual , genera una propuesta
 
-## Contenido
+This project was built with [Lovable](https://lovable.dev).
 
-- `index.html`: sitio autónomo; incluye todos los estilos, scripts, datos de guía y la imagen de portada.
-- `.github/workflows/pages.yml`: publicación automática en GitHub Pages tras cambios en `main`.
-- `.nojekyll`: desactiva el procesamiento Jekyll.
+## Build with Lovable
 
-## Publicar en GitHub de ANEMEX
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f49f02f6-1614-456b-b37b-46e5e943bc3c).
 
-1. Solicita a TI un repositorio **nuevo y vacío** en la organización corporativa, por ejemplo `gaid-pruebas`.
-2. Confirma que el contenido está autorizado para publicación web. GitHub Pages puede hacer el sitio público aunque el repositorio sea privado.
-3. Sube el contenido de esta carpeta a la raíz de ese repositorio, conservando `.github/workflows/pages.yml` y `.nojekyll`.
-4. En GitHub, abre **Settings → Pages → Build and deployment → Source** y selecciona **GitHub Actions**.
-5. En **Actions**, verifica la ejecución del flujo `Publicar GAID de pruebas`.
-6. Cuando termine correctamente, GitHub mostrará el enlace en **Settings → Pages**; habitualmente sigue el patrón `https://ORGANIZACION.github.io/gaid-pruebas/`.
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
-## Uso y límites de esta prueba
+## Development
 
-- Menú de 15 apartados, buscador, 77 acciones marcables y bitácora exportable a CSV.
-- Los registros y las marcas se almacenan **solo en el navegador/dispositivo**, mediante `localStorage` (no se comparten con otros visitantes ni se sincronizan).
-- No hay autenticación ni base de datos. **No ingresar datos personales o sensibles reales** durante estas pruebas públicas.
-- No incluye formularios de envío de información a ANEMEX.
-- Los textos y los trámites requieren validación institucional antes de declarar el sitio como oficial.
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-Para volver a publicar una revisión, actualiza únicamente `index.html` en este repositorio independiente y confirma la ejecución de GitHub Actions.
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
